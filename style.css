@@ -1,0 +1,18 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background: linear-gradient(-2deg, #0575E6, #00F260);
+
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+.buttoncontainer{
+width: 500px;
+margin: 0 auto;
+position: relative;
+}
